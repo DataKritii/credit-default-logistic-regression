@@ -1,0 +1,7 @@
+# Everything for local work: the dashboard, the notebook and the tests.
+# Install with:  pip install -r requirements-dev.txt
+-r requirements.txt
+statsmodels>=0.14
+matplotlib>=3.7
+notebook
+pytest
