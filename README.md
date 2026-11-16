@@ -2,7 +2,7 @@
 
 A **probability of default (PD) scorecard** that flags credit card accounts likely to default next month, so a bank can step in early with a reminder, a payment plan or a limit review. Built the way regulated credit-risk models are built: weight-of-evidence binning, an interpretable logistic regression, a points-based scorecard, a cost-based cut-off, challenger models, a fairness check and drift monitoring. Delivered through an **interactive Streamlit dashboard**.
 
-**▶ Live dashboard: [YOUR-APP-URL](YOUR-APP-URL)** · [Notebook](notebooks/credit_default_logistic_regression.ipynb) · [Deployment guide](DEPLOY.md)
+**▶ Live dashboard: [YOUR-APP-URL](https://credit-default-scorecard.streamlit.app/)** · [Notebook](notebooks/credit_default_logistic_regression.ipynb) · [Deployment guide](DEPLOY.md)
 
 ![Score an account](reports/figures/dashboard_1_score.png)
 
